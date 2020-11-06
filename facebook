@@ -1,11 +1,3 @@
-# Host file to block ads, tracking and more! Updated daily
-# Project home page: https://github.com/anudeepND/blacklist
-# Licence: https://github.com/anudeepND/blacklist/blob/master/LICENSE
-# Title: Anudeep's Facebook Blacklist
-# Expires: 1 days
-# Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 4,000
-# ===================================================================
 0.0.0.0 0-channel-proxy-07-ash2.facebook.com
 0.0.0.0 0-edge-chat.facebook.com
 0.0.0.0 1-channel-proxy-07-ash2.facebook.com
